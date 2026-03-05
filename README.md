@@ -50,3 +50,10 @@ Before building the dashboard, the dataset required several cleaning steps:
 ## Interactivity
 - The dashboard allows filtering by Year.
 - Hover over charts for detailed information.
+
+## Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Dashboard Design
+- Trend Analysis
