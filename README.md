@@ -45,8 +45,7 @@ Before building the dashboard, the dataset required several cleaning steps:
 
 ## Dashboard Preview
 
-<img width="723" height="718" alt="image" src="https://github.com/user-attachments/assets/c230e2f4-71a3-4cf7-a21c-aaaea7228b32" />
-
+![Netflix Dashboard](images/netflix_dashboard_preview.png)
 
 ## Interactivity
 - The dashboard allows filtering by Year.
