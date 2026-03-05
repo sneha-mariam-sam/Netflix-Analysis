@@ -14,13 +14,28 @@ You can interact with the dashboard here:
 - Columns Include:
 Title, Type, Director, Cast, Country, Date Added, Release Year, Rating, Duration, Genres, and Description.
 
+## Business Questions
+This analysis focuses on answering the following questions:
+- How has Netflix’s content library grown over time?
+- Which countries contribute the most content to Netflix?
+- What genres dominate Netflix’s catalog?
+- Which directors produce the most content on the platform?
+- Are there seasonal trends in when Netflix adds new content?
+
+## Data Preparation
+Before building the dashboard, the dataset required several cleaning steps:
+- Handling missing director and country values
+- Splitting multi-value genre fields
+- Converting date fields into usable time formats
+- Creating derived variables for release trends
+
 ## Visualizations Included
 - Content Type Distribution (Pie chart) – Shows the proportion of movies versus TV shows in Netflix’s catalog.
 - Top Countries by Content (Map + Bar chart) – Identifies which countries produce the most content for Netflix.
 - Top Directors (Bar chart) – Highlights the most prolific directors in the catalog.
 - Monthly Additions Heatmap – Shows patterns in when Netflix adds the most content throughout the year.
 
-## Insights
+## Key Insights
 - Netflix has been producing more movies than TV Shows in recent years.
 - United States, India, and the UK are the top contributors of content.
 - The Top 3 Directors dominating content production are Rajiv Chilaka, Raúl Campos & Jan Suter, and Alastair Fothergill.
