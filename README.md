@@ -1,4 +1,4 @@
-# Tableau Netflix Content Analysis Dashboard  
+# Netflix Content Strategy Analysis | Tableau Dashboard
 
 This Tableau dashboard provides an interactive analysis of Netflix's content catalog from 2008 to 2021. It explores trends in movies and TV shows, genres, directors, content ratings, and release patterns, offering actionable insights into Netflix’s content strategy.
 
@@ -42,6 +42,11 @@ Before building the dashboard, the dataset required several cleaning steps:
 - Dramas and International Movies are the most viewed genres, followed closely by Documentaries and Stand-up Comedy.
 - The highest number of releases occurred in 2019 with 1,422 movies and 591 TV shows.
 - Content additions peak in July and are followed by December, likely targeting summer and winter holidays.
+
+## Dashboard Preview
+
+<img width="723" height="718" alt="image" src="https://github.com/user-attachments/assets/c230e2f4-71a3-4cf7-a21c-aaaea7228b32" />
+
 
 ## Interactivity
 - The dashboard allows filtering by Year.
